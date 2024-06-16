@@ -155,3 +155,7 @@ img:hover {
 .dark-theme img {
     border: 1px solid #333;
 }
+.glow {
+    box-shadow: 0 0 20px 5px rgba(255, 255, 0, 0.8);
+    transition: box-shadow 0.3s;
+}

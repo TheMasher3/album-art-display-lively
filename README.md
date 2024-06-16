@@ -9,7 +9,7 @@ This project provides an interactive interface for displaying album covers that 
 - Use preset colors for glowing effects based on album covers.
 
 ## Getting Started
-//NOte: The porject assumes you have some very basic minimun knowlege of js, css, ann html (if not you'll be fine)
+//Note: The porject assumes you have some very basic minimun knowlege of js, css, ann html (if not you'll be fine)
 ### Prerequisites
 
 Before you begin, ensure you have met the following requirements:

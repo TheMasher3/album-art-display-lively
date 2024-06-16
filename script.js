@@ -1,7 +1,7 @@
 const songsToAlbums = {
-        "Girl With The Tattoo Enter.lewd": "all_i_want_is_you",
-        "Lost": "channel_orange",
-        "Good News": "circles",
+        "She Will Be Loved": "songs_about_jane",
+        "Jet Fuel": "swimming",
+        "I Ain't Mad At Cha (ft. Danny Boy)": "all_eyez_on_me",
         "LOVE. FEAT. ZACARI.": "damn",
         "See You Again (feat. Kali Uchis)": "flower_boy"
 };
@@ -9,28 +9,26 @@ const songsToAlbums = {
 const albums = {
         //optional: replace with the id you used in html, then replace the information
         //Copy and paste move if needed
-        all_i_want_is_you: {
-            title: 'All I Want Is You',
-            artist: 'Miguel',
-            releaseDate: 'November 30, 2010',
-            genre: 'R&B',
-            description: 'All I Want Is You is the debut studio album by American singer Miguel.',
-            color: 'rgb(176, 37, 40, 0.8)'
+        songs_about_jane: {
+            title: 'Songs About Jane',
+            artist: 'Maroon 5',
+            releaseDate: 'June 25, 2002',
+            genre: 'Pop rock, funk rock',
+            description: 'Songs About Jane is the debut studio album by American pop rock band Maroon 5.'
         },
-        channel_orange: {
-            title: 'channel ORANGE',
-            artist: 'Frank Ocean',
-            releaseDate: 'July 10, 2012',
-            genre: 'R&B, neo soul',
-            description: 'channel ORANGE is the debut studio album by American R&B singer Frank Ocean.',
-            color: 'rgba(243, 117, 33, 0.8)'
+        all_eyez_on_me: {
+            title: 'All Eyez on Me',
+            artist: '2Pac',
+            releaseDate: 'February 13, 1996',
+            genre: 'Hip hop',
+            description: 'All Eyez on Me is the fourth studio album by American rapper 2Pac.'
         },
-        circles: {
-            title: 'Circles',
+        swimming: {
+            title: 'Swimming',
             artist: 'Mac Miller',
-            releaseDate: 'January 17, 2020',
-            genre: 'Hip hop, soul',
-            description: 'Circles is the sixth and final studio album by American rapper and singer Mac Miller.',
+            releaseDate: 'August 3, 2018',
+            genre: 'Hip hop, jazz rap',
+            description: 'Swimming is the fifth studio album by American rapper and singer Mac Miller.',
             color: 'rgba(255, 255, 255, 0.8)'
         },
         damn: {
